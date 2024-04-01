@@ -14,6 +14,6 @@
 Built-in vless config generator is based on [Zizifn Edge Tunnel](https://github.com/zizifn/edgetunnel), re-written using Typescript.
 Proxy IPs source: https://rentry.co/CF-proxyIP
 
-### 复制 Cloudflare Worker 的 Account ID 和 API Token
-Account ID是Worker首页上右侧的Account ID, API Token 可以在第二次点击后创建。
-创建的时候确认权限为“Edit Cloudflare Workers”，里面只有两个必填项，我都选择了全部。
+### Copy Cloudflare Worker Account ID and API Token
+Account ID is on Workers & Pages Overview right side, click hyperlink named "Manage API tokens" can create an API Token.
+when API Token creating, choose template named "Edit Cloudflare Workers" and make some choice then Saved.
